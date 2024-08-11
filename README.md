@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Command lint fo creating flutter app
+## Command line of creating flutter app
 
 ```zsh
 flutter create my_first_flutter_app
